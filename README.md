@@ -11,7 +11,6 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 
 
 ⭐️ Data Structures and Algorithms <br/>
-leetcode: https://leetcode.com/TastanEzgi/
 
 
 🌱 Challenges that I’m currently challenging myself: 
