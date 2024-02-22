@@ -7,18 +7,19 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 👨‍💻 Professional Skills: 
 <li>BackEnd: Java, Python. C++  </li>
 <li>FrontEnd: HTML, CSS, JavaScript </li>
-<li>Database: SQL</li> <br/>
-<li>DevOps: Linux, Vagrant</li> <br/>
+<li>Database: SQL</li>
+<li>DevOps: Linux, Vagrant, Python, Shell scripting, Git</li> <br/>
 
 
 ⭐️ Data Structures and Algorithms <br/>
+my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
 
 
 🌱 Challenges that I’m currently challenging myself: 
 <li>Machine Learning </li>
 <li>Advanced Algorithms</li> </br>
 
-👯 I’m looking to collaborate on For doing projects on Full stack and ML.
+👯 I’m looking to collaborate on For doing projects on Machine Learning and DevOps.
 
 💼 Projects that I'm currently working on: <br/>
 Writing a 3D program which is expected to be used in architectural field by benefiting certain algorithms.
