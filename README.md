@@ -8,6 +8,7 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 <li>BackEnd: Java, Python. C++  </li>
 <li>FrontEnd: HTML, CSS, JavaScript </li>
 <li>Database: SQL</li> <br/>
+<li>DevOps: Linux, Vagrant</li> <br/>
 
 
 ⭐️ Data Structures and Algorithms <br/>
