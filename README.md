@@ -5,10 +5,10 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 
 
 👨‍💻 Professional Skills: 
-<li>BackEnd: Java, Python. C++  </li>
+<li>BackEnd: Java, Python, C++  </li>
 <li>FrontEnd: HTML, CSS, JavaScript </li>
 <li>Database: SQL</li>
-<li>DevOps: Linux, Vagrant, Python, Shell scripting, Git</li> <br/>
+<li>DevOps: Linux, Vagrant, Python, Shell scripting, Git, Docker</li> <br/>
 
 
 ⭐️ Data Structures and Algorithms <br/>
