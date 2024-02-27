@@ -12,7 +12,7 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
 
 🌱 Challenges that I’m currently challenging myself: 
-<li>Machine Learning </li>
+<li>Deep Learning </li>
 <li>Advanced Algorithms</li> </br>
 
 👯 I’m looking to collaborate on For doing projects on Machine Learning and DevOps.
