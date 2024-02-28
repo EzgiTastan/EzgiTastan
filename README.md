@@ -22,5 +22,5 @@ Writing a 3D program which is expected to be used in architectural field by bene
 
 Currently immersed in the development of a groundbreaking 3D architectural design application, my GitHub repository encapsulates a project driven by a fusion of innovative algorithms and user-centric design. Through the lens of cutting-edge data structures and algorithms, this endeavor aims to revolutionize the architectural field by providing architects and students with a sophisticated tool for optimal design outcomes. The project focuses on seamlessly integrating algorithmic approaches into the architectural workflow, ensuring that the resultant 3D models are not only visually captivating but also functionally optimized.
 
-[![My Last Medium Article](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
+![My latest articles](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=2&responseType=svg)(https://medium.com/@EzgiTastan)
 
