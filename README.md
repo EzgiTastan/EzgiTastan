@@ -16,7 +16,7 @@ my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
 <li>Learning a new language: Golang! </li>
 <li>Advanced Algorithms</li> </br>
 
-👯 I’m looking to collaborate on For doing projects on Machine Learning and DevOps.
+👯 I’m looking to collaborate on Machine Learning and DevOps.
 
 💼 Projects I'm currently working on: <br/>
 Writing a 3D program which is expected to be used in architectural field by benefiting certain algorithms.
