@@ -3,7 +3,7 @@ Hello there, I'm Ezgi.
 I am an architecture graduate experienced in designing. My studies focus on spatial designing and Machine Learning, yet I'm also interested in scripting for softwares such as Revit and Rhino, to extend the design possibilities and to make the workflow more efficent.
 
 👨‍💻 Professional Skills: 
-<li>BackEnd: Java, Python, C++, Node.js  </li>
+<li>BackEnd: Java, Python, C++ </li>
 <li>FrontEnd: HTML, CSS, JavaScript </li>
 <li>Database: MySQL</li>
 <li>DevOps: Linux, Vagrant, Python, Shell scripting, Vim, Git, Docker</li> <br/>
@@ -14,6 +14,7 @@ my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
 🌱 Challenges that I’m currently challenging myself: 
 <li>Deep Learning </li>
 <li>Learning a new language: Golang! </li>
+<li>Node.js & Express</li>
 <li>Advanced Algorithms</li> </br>
 
 👯 I’m looking to collaborate on Machine Learning and DevOps.
