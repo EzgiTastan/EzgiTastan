@@ -6,7 +6,7 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 <li>BackEnd: Java, Python, C++ </li>
 <li>FrontEnd: HTML, CSS, JavaScript </li>
 <li>Database: MySQL</li>
-<li>DevOps: Linux, Vagrant, Python, Shell scripting, Vim, Git, Docker</li> <br/>
+<li>DevOps: Linux, Vagrant, Shell scripting, Vim, Git, Docker</li> <br/>
 
 ⭐️ Data Structures and Algorithms <br/>
 my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
