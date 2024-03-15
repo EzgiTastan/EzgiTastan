@@ -13,6 +13,7 @@ my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
 
 🌱 Challenges that I’m currently challenging myself: 
 <li>Deep Learning </li>
+<li>CI/CD</li>
 <li>Advanced Algorithms</li> </br>
 
 👯 I’m looking to collaborate on Machine Learning and DevOps.
