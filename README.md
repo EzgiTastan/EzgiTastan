@@ -8,7 +8,7 @@ I am an architecture graduate experienced in designing. My studies focus on spat
 <li>Database: MySQL</li>
 <li>DevOps: Linux, Vagrant, Shell scripting, Vim, Git, Docker</li> <br/>
 
-⭐️ Data Structures and Algorithms <br/>
+⭐️ Data Structures and Algorithms: <br/>
 my Leetcode account: https://leetcode.com/TastanEzgi/ </br>
 
 🌱 Challenges that I’m currently challenging myself: 
