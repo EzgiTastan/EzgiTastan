@@ -11,7 +11,7 @@ My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 🌱 **Challenges I’m Currently Pursuing:**  
 - Network
 - Advanced Algorithms
-- Learning GoLang! (Wait for me OpenSource projects)
+- Learning GoLang! (Wait for me OpenSource projects!!)
 
 👯 **I’m looking to collaborate on:**  
 Machine Learning and DevOps projects.
