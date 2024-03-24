@@ -1,4 +1,5 @@
-Hello there, I'm Ezgi, an architecture graduate with experience in designing. My studies focus on spatial design and Machine Learning, and I'm also interested in scripting for software such as Revit and Rhino to extend design possibilities and make workflows more efficient.
+Hello there, I'm Ezgi, </br>
+an architecture graduate with experience in designing. My studies focus on spatial design and Machine Learning, and I'm also interested in scripting for software such as Revit and Rhino to extend design possibilities and make workflows more efficient.
 
 👨‍💻 **Professional Skills:** 
 - **BackEnd:** Java, Python, C++
