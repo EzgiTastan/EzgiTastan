@@ -19,7 +19,7 @@ Machine Learning and DevOps projects.
 
 💼 **Projects I'm currently working on:**  
 - Writing a 3D program expected to be used in the architectural field, leveraging certain algorithms.
-- Developing a groundbreaking 3D architectural design application. My GitHub repository encapsulates a project driven by a fusion of innovative algorithms and user-centric design. Through cutting-edge data structures and algorithms, this endeavor aims to revolutionize the architectural field by providing architects and students with a sophisticated tool for optimal design outcomes. The project focuses on seamlessly integrating algorithmic approaches into the architectural workflow, ensuring that the resultant 3D models are visually captivating and functionally optimized.
+- The project focuses on seamlessly integrating algorithmic approaches into the architectural workflow, ensuring that the resultant 3D models are visually captivating and functionally optimized.
 
 📝 **Latest Medium Writing:**  
 [![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
