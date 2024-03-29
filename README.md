@@ -2,9 +2,9 @@ Hello there, I'm Ezgi, </br>
 an architecture grad with a strong interest in AI.
 
 👨‍💻 **Professional Skills (click the links to see related projects):** 
-- **BackEnd:** Java, [Python](https://github.com/EzgiTastan/PongPy), C++
+- **BackEnd:** [Python](https://github.com/EzgiTastan/PongPy), Java, C++
 - **FrontEnd:** HTML, CSS, JavaScript
-- **DevOps:** [Linux](https://github.com/EzgiTastan/linux-commands-study), Vagrant, Shell scripting, Vim, Git, Docker, [Kubernetes](https://github.com/EzgiTastan/k8s)
+- **DevOps:** Linux, Vagrant, Shell scripting, Vim, Git, Docker, [Kubernetes](https://github.com/EzgiTastan/k8s)
 
 ⭐️ **Data Structures and Algorithms:**  
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
