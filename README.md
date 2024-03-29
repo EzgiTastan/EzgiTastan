@@ -17,7 +17,7 @@ My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 Machine Learning and DevOps projects (MLOps, mainly).
 
 💼 **Projects I'm currently working on:**  
--
+-Deep Learning project.
 
 📝 **Latest Medium Writing:**  
 [![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
