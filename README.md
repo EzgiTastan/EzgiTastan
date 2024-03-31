@@ -11,7 +11,7 @@ My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 
 🌱 **Challenges I’m Currently Pursuing:**  
 - Helm
-- Network
+- Networks
 - Algorithms with GoLang
 
 👯 **I’m looking to collaborate on:**  
