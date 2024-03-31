@@ -12,7 +12,7 @@ My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 🌱 **Challenges I’m Currently Pursuing:**  
 - Helm
 - Networks
-- Algorithms with GoLang
+- Algorithms with GoLang to manipulate microservices to be optimized
 
 👯 **I’m looking to collaborate on:**  
 Machine Learning and DevOps projects (MLOps, mainly).
