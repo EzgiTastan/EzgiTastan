@@ -1,5 +1,5 @@
 Hello there, I'm Ezgi, </br>
-an architecture grad with a strong interest in AI.
+an archi grad with a strong interest in AI.
 
 👨‍💻 **Professional Skills (click the links to see related projects):** 
 - **BackEnd:** [Python](https://github.com/EzgiTastan/PongPy), Java, C++
@@ -10,7 +10,6 @@ an architecture grad with a strong interest in AI.
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 
 🌱 **Challenges I’m Currently Pursuing:**  
-- Helm
 - Networks
 - GoLang
 
@@ -18,7 +17,7 @@ My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 Machine Learning and DevOps projects (MLOps, mainly).
 
 💼 **Projects I'm currently working on:**  
--Deep Learning project.
+-projects with Go
 
 📝 **Latest Medium Writing:**  
 [![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
