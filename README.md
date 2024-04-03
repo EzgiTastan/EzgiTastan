@@ -18,17 +18,22 @@ My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 Machine Learning and DevOps projects (MLOps, mainly).
 
 💼 **Projects I'm currently working on:**  
--projects with Go
+projects with Go
 
 📜 **Certificates:**
-Google Cloud - Generative AI Fundamentals, 
-             - Introduction to Large Language Models,
-             - Introduction to Generative AI
-Cisco        - NDG Linux Essentials
-Coursera     - Machine Learning Specialization
-             - Algorithms, Part I by Princeton University
-SoloLearn    - Intermediate Python
-HackerRank   - Problem Solving
-
+- **Google Cloud**:
+  - Generative AI Fundamentals
+  - Introduction to Large Language Models
+  - Introduction to Generative AI
+- **Cisco**:
+  - NDG Linux Essentials
+- **Coursera**:
+  - Machine Learning Specialization
+  - Algorithms, Part I by Princeton University
+- **HackerRank**:
+  - Problem Solving
+- **SoloLearn**:
+  - Intermediate Python
+  
 📝 **Latest Medium Writing:**  
 [![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
