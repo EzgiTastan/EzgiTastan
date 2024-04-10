@@ -10,7 +10,7 @@ an archi grad with a strong interest in AI.
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 
 🌱 **Challenges I’m Currently Pursuing:**  
-- Networks
+- Network
 - AWS
 
 👯 **I’m looking to collaborate on:**  
