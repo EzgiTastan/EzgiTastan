@@ -31,5 +31,5 @@ Machine Learning and DevOps projects (MLOps, mainly).
 - **SoloLearn**:
   - Intermediate Python
   
-📝 **Latest Medium Writing:**  
+📝 **See My Latest Medium Writing:**  
 [![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
