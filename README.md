@@ -4,7 +4,7 @@ an archi grad with a strong interest in AI.
 👨‍💻 **Professional Skills (click the links to see related projects):** 
 - **BackEnd:** [Python](https://github.com/EzgiTastan/PongPy), Java, C++
 - **FrontEnd:** HTML, CSS, JavaScript
-- **DevOps:** Linux, Vagrant, Bash, Shell scripting, Vim, Git, Docker, [Kubernetes](https://github.com/EzgiTastan/k8s)
+- **DevOps:** Linux, Vagrant, Bash scripting, vim, Git, Docker, [Kubernetes](https://github.com/EzgiTastan/k8s)
 
 ⭐️ **Data Structures and Algorithms:**  
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
