@@ -1,19 +1,13 @@
 Hello there, I'm Ezgi, </br>
 an archi grad with a strong interest in AI.
 
-👨‍💻 **Professional Skills (click the links to see related projects):** 
-- **BackEnd:** [Python](https://github.com/EzgiTastan/PongPy), Java, C++
-- **FrontEnd:** HTML, CSS, JavaScript
-- **DevOps:** Linux, Vagrant, Bash scripting, vim, Git, Docker, [Kubernetes](https://github.com/EzgiTastan/k8s)
+👨‍💻 **Professional Skills:** </br>
+Python, Linux, Vagrant, Bash scripting, vim, Git, Docker, Kubernetes
 
 ⭐️ **Data Structures and Algorithms:**  
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 
-🌱 **Challenges I’m Currently Pursuing:**  
-- Machine Learning Algorithms
-- NumPy
-
-👯 **I’m looking to collaborate on:**  
+🌱👯 **I’m looking to collaborate on:**  
 Machine Learning and DevOps projects (MLOps, mainly).
 
 📜 **Certificates:**
