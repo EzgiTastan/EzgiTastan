@@ -1,8 +1,8 @@
 Hello there, I'm Ezgi, </br>
 an archi grad with a strong interest in AI.
 
-👨‍💻 **Professional Skills:** </br>
-Python, Linux, Vagrant, Bash scripting, vim, Git, Docker, Kubernetes
+👨‍💻 **Professional Skills/Tools:** </br>
+Python, Linux, Vagrant, Bash scripting, vim, Git, Maven, Docker, Kubernetes
 
 ⭐️ **Data Structures and Algorithms:**  
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
