@@ -20,7 +20,8 @@ Machine Learning and DevOps projects (MLOps, mainly).
 - **HackerRank**:
   - Problem Solving
 - **SoloLearn**:
-  - Intermediate Python
+  - Python Intermediate
+  - SQL Intermediate
  
 ⭐️ **Data Structures and Algorithms:**  
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
