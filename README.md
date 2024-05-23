@@ -2,7 +2,7 @@ Hello there, I'm Ezgi, </br>
 an archi grad with a strong interest in AI.
 
 👨‍💻 **Professional Skills/Tools:** </br>
-Python, Linux, Vagrant, Bash scripting, vim, Git, Maven, Docker, Kubernetes
+Python (NumPy, Pandas, Tensorflow, Keras, PyTorch, Scikit-learn, Django), SQL (PostgreSQL), Java, Linux, Vagrant, Shell / Bash scripting, Vim, Git, Maven, Docker, Kubernetes, FastAPI
 
 🌱👯 **I’m looking to collaborate on:**  
 Machine Learning and DevOps projects (MLOps, mainly).
