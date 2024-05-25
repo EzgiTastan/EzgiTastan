@@ -27,8 +27,3 @@ Machine Learning and DevOps projects (MLOps, mainly).
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
 </br> </br>
 ![LeetCode Stats](https://leetcode.card.workers.dev/tastanezgi?theme=north&extension=activity)
-  
-📝 **See My Latest Writing on Medium:**  
-[![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=EzgiTastan&limit=1&responseType=svg)](https://medium.com/@EzgiTastan)
-
-
