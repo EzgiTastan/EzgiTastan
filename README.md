@@ -1,9 +1,9 @@
 <h2> Hello there, I'm Ezgi Tastan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-an archi grad with a strong interest in AI.
+an archi grad with a strong interest in Cloud & MLOps.
 
 ## 👩‍💻 Professional Skills
-- **Language:** Python (NumPy, Pandas, Tensorflow, Keras, PyTorch, Scikit-learn), Java
+- **Language:** Python (NumPy, Pandas, Tensorflow, Keras, PyTorch, Scikit-learn)
 - **DevOps:** Linux, Vagrant, Shell / Bash scripting, Docker, Kubernetes, Git, Maven, Vim
 - **Database:** PostgreSQL (SQL)
 - **Web Development:** Django, FastAPI
