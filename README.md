@@ -27,7 +27,7 @@ an archi grad with a strong interest in Cloud & MLOps.
 </table>
 
 ## 🌱👯 I’m looking to collaborate on
-Machine Learning and DevOps projects (MLOps, mainly).
+Cloud, DevOps, MLOps projects.
 
 ## 📜 Certificates
 
@@ -38,5 +38,3 @@ Machine Learning and DevOps projects (MLOps, mainly).
 - SoloLearn - Python Intermediate, SQL Intermediate
 
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
-</br> </br>
-![LeetCode Stats](https://leetcode.card.workers.dev/tastanezgi?theme=north&extension=activity)
