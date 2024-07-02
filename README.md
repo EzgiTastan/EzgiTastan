@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Ezgi Tastan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-an archi grad with a strong interest in Cloud & MLOps.
+I am enthusiastic about opportunities in Cloud, MLOps, and DevOps roles.
 
 ## 👩‍💻 Professional Skills
 - **Language:** Python (NumPy, Pandas, Tensorflow, Keras, PyTorch, Scikit-learn)
