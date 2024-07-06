@@ -4,7 +4,7 @@ I am enthusiastic about opportunities in Cloud, MLOps, and DevOps roles.
 
 ## 👩‍💻 Professional Skills
 - **Language:** Python (NumPy, Pandas, Tensorflow, Keras, PyTorch, Scikit-learn)
-- **DevOps:** Linux, Vagrant, Shell / Bash scripting, Docker, Kubernetes, Git, Maven, Vim
+- **DevOps:** Linux (RHEL & Ubuntu), Vagrant, Shell / Bash scripting, Docker, Kubernetes, Git, Maven, Vim, AWS
 - **Database:** PostgreSQL (SQL)
 - **Web Development:** Django, FastAPI
 
