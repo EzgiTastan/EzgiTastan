@@ -4,8 +4,8 @@ I am enthusiastic about opportunities in Cloud and DevOps roles.
 
 ## 👩‍💻 Professional Skills
 - **Language:** Python
-- **DevOps:** Linux (RHEL & Ubuntu), FastAPI, Vagrant, Shell / Bash scripting, Docker, Kubernetes, Git, Maven, Vim, AWS
-- **Database:** PostgreSQL (SQL)
+- **DevOps:** Docker, Kubernetes, AWS, Azure, Git, Linux (RHEL & Ubuntu), Shell / Bash scripting, FastAPI, Vagrant, Vim
+- **Documentation:** LaTeX, Markdown
 
 ## 📜 Certificates
 
