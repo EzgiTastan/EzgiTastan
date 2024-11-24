@@ -4,14 +4,14 @@ I am enthusiastic about opportunities in Cloud and DevOps roles.
 
 ## 👩‍💻 Professional Skills
 - **Language:** Python
-- **DevOps:** Docker, Kubernetes, AWS, Terraform, Git, Linux (RHEL & Ubuntu), Shell / Bash scripting, FastAPI, Vagrant, Vim
+- **DevOps:** Docker, Kubernetes, AWS, Terraform, Git, Linux (RHEL & Ubuntu), Shell / Bash scripting, FastAPI, Vagrant, Vim, Azure DevOps Pipelines
 - **Documentation:** LaTeX, Markdown
 
 ## 📜 Certificates
 
 - Google Cloud - Generative AI Fundamentals, Introduction to Large Language Models, Introduction to Generative AI
 - Cisco - NDG Linux Essentials
-- Coursera - Machine Learning Specialization, Algorithms, Part I by Princeton University
+- Coursera - Machine Learning Specialization, Algorithms Part I by Princeton University
 - HackerRank - Problem Solving
 - SoloLearn - Python Intermediate, SQL Intermediate
 
