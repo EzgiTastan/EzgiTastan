@@ -4,7 +4,7 @@ I am enthusiastic about opportunities in Cloud and DevOps roles.
 
 ## 👩‍💻 Professional Skills
 - **Language:** Python
-- **DevOps:** Docker, Kubernetes, AWS, Terraform, Git, Linux (RHEL & Ubuntu), Shell / Bash scripting, FastAPI, Vagrant, Vim, Azure DevOps Pipelines
+- **DevOps:** Docker, Kubernetes, AWS, Terraform, Terragrunt, Helm, Linux (RHEL & Ubuntu), Shell / Bash scripting, Vagrant, Vim, Azure DevOps Pipelines
 - **Documentation:** LaTeX, Markdown
 
 ## 📜 Certificates
