@@ -3,7 +3,6 @@
 I am enthusiastic about opportunities in Cloud and DevOps roles.
 
 ## 👩‍💻 Professional Skills
-- **Language:** Python
 - **DevOps:** Docker, Kubernetes, AWS, Terraform, Terragrunt, Helm, Linux (RHEL & Ubuntu), Shell / Bash scripting, Vagrant, Vim, Azure DevOps Pipelines
 - **Documentation:** LaTeX, Markdown
 
@@ -16,3 +15,7 @@ I am enthusiastic about opportunities in Cloud and DevOps roles.
 - SoloLearn - Python Intermediate, SQL Intermediate
 
 My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
+
+## Currently Exploring...
+   - Go for cloud-native development
+   - GPU orchestration
