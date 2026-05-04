@@ -1,21 +1,21 @@
-<h2> Hello there, I'm Ezgi Tastan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2>Hi, I'm Ezgi Taştan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-I am enthusiastic about opportunities in Cloud and DevOps roles.
+AI Infrastructure & SRE Engineer focused on GPU compute infrastructure, and Kubernetes-based AI model serving.
+
+I write about what I learn at [ezgitastan.systems](https://ezgitastan.systems/)
 
 ## 👩‍💻 Professional Skills
-- **DevOps:** Docker, Kubernetes, AWS, Terraform, Terragrunt, Helm, Linux (RHEL & Ubuntu), Shell / Bash scripting, Vagrant, Vim, Azure DevOps Pipelines
-- **Documentation:** LaTeX, Markdown
+**GPU & AI Infrastructure**
+NVIDIA GPU Operator · MIG slicing · NFD · DCGM · NCCL · vLLM · H200 / H100 / B200 / A100
 
-## 📜 Certificates
+**Orchestration & Platform**
+OpenShift (ROSA) · Kubernetes · Helm · Kustomize · ArgoCD
 
-- Google Cloud - Generative AI Fundamentals, Introduction to Large Language Models, Introduction to Generative AI
-- Cisco - NDG Linux Essentials
-- Coursera - Machine Learning Specialization, Algorithms Part I by Princeton University
-- HackerRank - Problem Solving
-- SoloLearn - Python Intermediate, SQL Intermediate
+**Cloud & IaC**
+AWS · GCP · Terraform · Terragrunt · Packer · Vagrant
 
-My Leetcode account: [TastanEzgi](https://leetcode.com/TastanEzgi/)
+**Observability & Reliability**
+Datadog · Sentry · Prometheus · Langfuse · K6 (load testing) · PagerDuty
 
-## Currently Exploring...
-   - Go for cloud-native development
-   - GPU orchestration
+**Languages**
+Go, Bash
