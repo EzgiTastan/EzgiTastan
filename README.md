@@ -1,6 +1,6 @@
 <h2>Hi, I'm Ezgi Taştan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-I am a Site Reliability Engineer at [**Verda**](https://verda.com/), working on rack-scale GPU fleet reliability, AI infrastructure and Kubernetes-based AI model serving.
+I am a Site Reliability Engineer, working on rack-scale GPU fleet reliability, AI infrastructure and Kubernetes-based AI model serving.
 
 I write at **[ezgitastan.systems](https://ezgitastan.systems/)**
 
