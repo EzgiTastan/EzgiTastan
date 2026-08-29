@@ -38,5 +38,6 @@ Ceph · MAAS · NetBox · libvirt / KVM
 
 ## Writing
 
+- [**Profiling MiniMax-H3 on GB300 with SGLang and eBPF**](https://ezgitastan.systems/blog/minimax-h3-sglang-gb300-ebpf/) — end-to-end stage timing, Ulysses scaling, concurrency, Grace–GPU fabric traffic, and energy measurements, with a [reproducible benchmark repository](https://github.com/EzgiTastan/minimax-h3-gb300-ebpf)
 - [**Profiling Voice AI on H100 with eBPF**](https://ezgitastan.systems/blog/gpu-observability-ebpf) — traced STT and TTS containers with bpftime: the GPU sat at 0% while the CPU ran 169K malloc/s
 - [**Optimizing LLM Inference with Kubernetes and vLLM**](https://medium.com/@ezgitastan/optimizing-llm-inference-with-kubernetes-and-vllm-919ce4cd4491)
