@@ -29,12 +29,13 @@ Ceph · MAAS · NetBox · libvirt / KVM
 
 ## Merged upstream
 
+- [MiniMax-AI/awesome-minimax-h3-integration](https://github.com/MiniMax-AI/awesome-minimax-h3-integration/pull/12) — GB300 benchmarking and observability resource for SGLang serving, eBPF/PMU profiling, energy, and Nsight comparison
 - [vllm-project/production-stack](https://github.com/vllm-project/production-stack/pulls?q=author%3AEzgiTastan) — least-privilege RBAC for Kubernetes secrets
 - [kubernetes-sigs/gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension/pulls?q=author%3AEzgiTastan) — release-process fix
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime/pulls?q=author%3AEzgiTastan) — config rename across 36 files of the userspace eBPF runtime
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime/pulls?q=author%3AEzgiTastan) — NVIDIA GB300 (sm_103) and CUDA 13 support, plus a config rename across 36 files of the userspace eBPF runtime
 - [dstackai/gpuhunt](https://github.com/dstackai/gpuhunt/pulls?q=author%3AEzgiTastan) — Azure H100 NVL + H200 support
 - [aws-actions/amazon-ecs-deploy-task-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition/pulls?q=author%3AEzgiTastan) — bounded exponential backoff in deployment waiters
-- Also [agentgateway](https://github.com/agentgateway/agentgateway/pulls?q=author%3AEzgiTastan), [llm-d](https://github.com/llm-d/llm-d/pulls?q=author%3AEzgiTastan), [bifrost](https://github.com/maximhq/bifrost/pulls?q=author%3AEzgiTastan), [ratty](https://github.com/orhun/ratty/pulls?q=author%3AEzgiTastan), [rustypaste](https://github.com/orhun/rustypaste/pulls?q=author%3AEzgiTastan) → [see all 13 merged](https://github.com/search?q=author%3AEzgiTastan+is%3Apr+is%3Amerged&type=pullrequests)
+- Also [agentgateway](https://github.com/agentgateway/agentgateway/pulls?q=author%3AEzgiTastan), [llm-d](https://github.com/llm-d/llm-d/pulls?q=author%3AEzgiTastan), [bifrost](https://github.com/maximhq/bifrost/pulls?q=author%3AEzgiTastan), [ratty](https://github.com/orhun/ratty/pulls?q=author%3AEzgiTastan), [rustypaste](https://github.com/orhun/rustypaste/pulls?q=author%3AEzgiTastan) → [see all 19 merged PRs](https://github.com/search?q=author%3AEzgiTastan+is%3Apr+is%3Amerged&type=pullrequests)
 
 ## Writing
 
