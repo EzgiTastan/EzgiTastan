@@ -26,7 +26,6 @@ Ceph · MAAS · NetBox · libvirt / KVM
 - Performance-regression detection for GPU fleets
 - NVLink and NVSwitch fault isolation
 - eBPF for GPU observability
-- [bmclib: Redfish system selection on multi-system BMCs](https://github.com/bmc-toolbox/bmclib/pull/480) — open pull request
 
 ## Merged upstream
 
